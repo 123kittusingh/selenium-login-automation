@@ -4,18 +4,19 @@ https://github.com/your-username/selenium-login-automation
 Selenium Login Automation Framework
 
 Tech Stack
-Java
+- Java
 - Selenium WebDriver
 - TestNG
 - Maven
 - Eclipse IDE
 
+Features
 - Login automation using Selenium
 - Page Object Model (POM)
 - TestNG framework integration
 - Assertion validation
 - Maven build tool
-- 
+
 How to Run
 -Clone the repo
 -Import as Maven project
