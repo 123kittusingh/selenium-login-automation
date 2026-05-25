@@ -17,9 +17,9 @@ Java
 - Maven build tool
 - 
 How to Run
-Clone the repo
-Import as Maven project
-Run testng.xml or LoginTest.java
+-Clone the repo
+-Import as Maven project
+-Run testng.xml or LoginTest.java
 
 Test Scenario
 1. Open login page
